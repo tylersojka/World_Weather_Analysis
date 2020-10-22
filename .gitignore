@@ -1,3 +1,9 @@
+config.py
+API_practice.ipynb
+Google_Nearby_Search.ipynb
+random_numbers.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
